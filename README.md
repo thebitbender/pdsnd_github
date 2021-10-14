@@ -17,3 +17,6 @@ It's important to give proper credit. Add links to any repo that inspired you or
 
 ### Required
 This is the first requirement to update the readme file.
+
+### bikeshare
+what was done on the bikeshare project was simply to ensure document can be consumed and data crunched to query data from the files.
