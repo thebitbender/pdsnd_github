@@ -20,3 +20,6 @@ This is the first requirement to update the readme file.
 
 ### bikeshare
 what was done on the bikeshare project was simply to ensure document can be consumed and data crunched to query data from the files.
+
+### TODO Note
+I noticed previous bikeshare app copied was a template and not my work, hence i updated it with my work, and fixed the documentation by removing the TODO texts in the comment section of the code.
