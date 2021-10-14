@@ -131,6 +131,8 @@ def main():
         user_stats(df)
 
         restart = input('\nWould you like to restart? Enter yes or no.\n')
+        # this restarts the entire application from the scratch
+        
         if restart.lower() != 'yes':
             break
 
