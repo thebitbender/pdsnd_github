@@ -1,6 +1,8 @@
+# DO NOT delete below this line ==============
 import time
 import pandas as pd
 import numpy as np
+# DO NOT delete above this line ==============
 
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
