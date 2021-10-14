@@ -1,6 +1,8 @@
+# DO NOT delete below this line ==============
 import time
 import pandas as pd
 import numpy as np
+# DO NOT delete above this line ==============
 
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
@@ -287,6 +289,8 @@ def main():
         show_data(df)
 
         restart = input('\nWould you like to restart? Enter yes or no.\n')
+        # this restarts the entire application from the scratch
+        
         if restart.lower() != 'yes':
             print('\nSee you some other time. Good bye!')
             break
